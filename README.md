@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Fausto 👋 
 
-<!--
-**faustooch/faustooch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Estudiante de Ingeniería en la UTN-FRC
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería en Sistemas. Conocimientos sólidos en desarrollo Full-Stack, soporte técnico y redes. Apasionado por la tecnología, el
+aprendizaje continuo y la resolución de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Stack Tecnológico
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript, React, Tailwind CSS, Vite |
+| **Backend** | Java (Spring Boot), Python (FastAPI) |
+| **Bases de Datos** | PostgreSQL, MongoDB, SQLite, MySQL |
+| **Herramientas** | Git, GitHub, Linux |
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Stats de Fausto](https://github-readme-stats.vercel.app/api?username=faustooch&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=faustooch&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
+---
+
+### 📫 Conectemos
+
+- **GitHub:** [@faustooch](https://github.com/faustooch)
+- **LinkedIn:** https://www.linkedin.com/in/faustoch/
+- **Email:** faustooch@gmail.com
