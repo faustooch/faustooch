@@ -38,8 +38,8 @@ Estudiante de Ingeniería en Sistemas. Conocimientos sólidos en desarrollo Full
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faustooch&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats de Fausto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustooch&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faustooch&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats de Fausto" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faustooch&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
 </p>
 
 ---
