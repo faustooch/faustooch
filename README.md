@@ -1,26 +1,26 @@
-# ¡Hola! Soy Fausto 👋 
+# Hola, Soy Fausto
 
 <div align="center">
-  <h3>🚀 Full Stack Developer | 🎓 Estudiante de Ingeniería en la UTN-FRC</h3>
+  <h3>Full Stack Developer | Estudiante de Ingeniería en la UTN-FRC</h3>
   <p>Construyendo software escalable mediante arquitecturas sólidas y código limpio.</p>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí
+### Conoceme un poco
 
 Soy estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN-FRC), enfocado en el desarrollo de soluciones de software eficientes y mantenibles. Me enfoco principalmente en garantizar que el código no solo funcione, sino que sea escalable y fácil de mantener a largo plazo, mediante la aplicacion de patrones y principios de diseño a lo largo del proceso de desarrollo.
 
 Mi visión del desarrollo integra de manera activa y crítica la **Inteligencia Artificial**. Utilizo herramientas de IA en el ciclo de vida del desarrollo de software para optimizar procesos, mejorar la calidad del código y agilizar la resolución de problemas, ademas de utilizarla para aprender de manera mas eficiente, siempre priorizando el dominio técnico y el rigor analítico por encima de la automatización ciega.
 
-* 🔭 **Actualmente trabajando en:**
+* **Actualmente trabajando en:**
   * **Laburito:** Una plataforma integral para conectar clientes con profesionales de oficios locales.
   * **Naiterra Cerámica:** Desarrollo de una plataforma de e-commerce completa y optimizada.
-* ⚙️ **Background:** Mi formación técnica se complementa con bases sólidas en soporte y hardware, permitiéndome entender la tecnología desde lo tangible, hasta la interfaz de usuario.
+* **Background:** Mi formación técnica se complementa con bases sólidas en soporte y hardware, permitiéndome entender la tecnología desde lo tangible, hasta la interfaz de usuario.
 
 ---
 
-### 💻 Stack Tecnológico
+### Con que trabajo
 
 <div align="center">
 
@@ -49,10 +49,10 @@ Mi visión del desarrollo integra de manera activa y crítica la **Inteligencia 
 
 ---
 
-### 🚀 Proyectos Destacados
+### Mis proyectos
 
-* 🛠️ **Laburito:** Plataforma web Full-Stack diseñada para conectar a usuarios con trabajadores (plomeros, electricistas, etc.). Construida con **React, Tailwind CSS, FastAPI y PostgreSQL**.
-* 🛒 **Naiterra Cerámica:** Desarrollo de un e-commerce orientado a la gestión eficiente de inventario y ventas, con foco en una experiencia de compra fluida y segura para el usuario final. Construida con **React, Tailwind CSS, FastAPI y PostgreSQL**.
+* **Laburito:** Plataforma web Full-Stack diseñada para conectar a usuarios con trabajadores (plomeros, electricistas, etc.). Construida con **React, Tailwind CSS, FastAPI y PostgreSQL**.
+* **Naiterra Cerámica:** Desarrollo de un e-commerce orientado a la gestión eficiente de inventario y ventas, con foco en una experiencia de compra fluida y segura para el usuario final. Construida con **React, Tailwind CSS, FastAPI y PostgreSQL**.
 
 ---
 
@@ -65,7 +65,7 @@ Mi visión del desarrollo integra de manera activa y crítica la **Inteligencia 
 
 ---
 
-### 📫 Conectemos
+### Conectemos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/faustoch/">
