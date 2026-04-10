@@ -8,15 +8,10 @@
 
 Soy estudiante de Ingeniería en Sistemas en la UTN-FRC, enfocado en el desarrollo de soluciones eficientes, robustas y sostenibles en el tiempo. Priorizo no solo la funcionalidad, sino también la calidad estructural del código, aplicando principios y patrones de diseño que faciliten la escalabilidad y el mantenimiento.
 
-Integro de forma crítica la Inteligencia Artificial en el ciclo de desarrollo de software. La utilizo como herramienta para optimizar procesos, mejorar la calidad del código y acelerar la resolución de problemas, sin comprometer el criterio técnico ni el análisis profundo.
-
 **Actualmente trabajando en:**
 
-* **Laburito:** Plataforma para conectar clientes con profesionales de oficios.
-* **Naiterra Cerámica:** Desarrollo de una solución de e-commerce optimizada.
-
-**Background:**
-Cuento con una base sólida en soporte técnico y hardware, lo que me permite abordar problemas desde una perspectiva integral, desde la infraestructura hasta la experiencia de usuario.
+* **Laburito:** Plataforma para conectar clientes con trabajadores.
+* **Naiterra Cerámica:** Desarrollo de una solución de e-commerce.
 
 ---
 
@@ -46,16 +41,6 @@ Cuento con una base sólida en soporte técnico y hardware, lo que me permite ab
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-
-### Proyectos
-
-* **Laburito:** Plataforma web full-stack para vincular usuarios con profesionales de oficios.
-  Stack: React, Tailwind CSS, FastAPI, PostgreSQL.
-
-* **Naiterra Cerámica:** E-commerce enfocado en gestión de inventario y experiencia de compra eficiente.
-  Stack: React, Tailwind CSS, FastAPI, PostgreSQL.
 
 ---
 
